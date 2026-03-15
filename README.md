@@ -7,3 +7,5 @@ Video found here: https://youtu.be/vmEHCJofslg
 If you have any trouble with this repo, probably leaving a comment on the video is the best way to reach me and I'll try to resolve the issue as soon as possible!
 
 Creating a first feature branch now
+
+Second change in readme file
